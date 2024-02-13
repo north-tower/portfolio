@@ -35,7 +35,7 @@ const Home = ({pageInfo, experiences, projects, skills, socials}: Props) => {
     snap-y snap-mandatory overflow-y-scroll overflow-x-hidden
      z-0 scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-[#f7ab0a]/80'>
       <Head>
-        <title>Mike-Ndegwa-Portfolio</title>
+        <title>Mike-Ndegwa-Portfoli</title>
       </Head>
 
       <Header socials={socials} />
